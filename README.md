@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Aleyna KOCABEY</h1>
-<h3 align="center">I have a strong passion for Image Processing, Machine learning and NLP.</h3>
+<h3 align="center">I have a strong passion for LLM, Image Processing, Machine learning and NLP.</h3>
 
 <img align="right" alt="Coding" height=250 width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWplejQ2dXVkOXRpbnB5anZmamV6Z2k4MzJvd3d3ZGlyc3ZmNDIyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVmh7HR0cA2xOlet1z/giphy.webp">
 
